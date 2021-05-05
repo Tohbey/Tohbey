@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Tohbey/Tohbey/master/wave.gif" width="30px">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tohbey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![Tohbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohbey&count_private=true)
 <!--
 **Tohbey/Tohbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
