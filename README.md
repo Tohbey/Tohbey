@@ -2,7 +2,7 @@
 
 ### I'm Tobey 	👨🏿‍💻
 - 🔭 I’m currently working on a Mini Store Api
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning graphQL with nodejs and express
 - 📫 How to reach me: fafoworatobi25@gmail.com
 - ⚡ Fun fact: Just think about what the first person that milked a cow had in his mind🤯
 
