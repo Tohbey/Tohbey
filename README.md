@@ -10,7 +10,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tohbey&layout=compact&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohbey&layout=compact&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tobey" />
 
 
 ### Languages and Tools:
