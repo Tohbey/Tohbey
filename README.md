@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### I'm Tobey 	👨🏿‍💻
-- 🔭 I’m currently working on a Mini Store Api
-- 🌱 I’m currently learning graphQL with nodejs and express
+- 🔭 I’m currently working on a Secure-portal for uploading documents
+- 🌱 I’m currently learning sequelize with nodejs and express
 - 📫 How to reach me: fafoworatobi25@gmail.com
 - ⚡ Fun fact: Just think about what the first person that milked a cow had in his mind🤯
 
