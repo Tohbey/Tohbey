@@ -8,8 +8,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tobeyfafo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTobeyfafor&screen_name=Tobeyfafo)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tohbey&layout=compact&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohbey&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tohbey&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohbey&layout=compact&theme=dark" />
 
 
 ### Languages and Tools:
